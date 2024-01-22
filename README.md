@@ -1,16 +1,28 @@
-### Hi there 👋
+<!-- Add your banner or profile picture here -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="Swati Verma Banner" width="800" height="300">
+</p>
 
-<!--
-**vswati0101/vswati0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Swati Verma! 👩‍💻✨
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## About Me 🌟
+
+- 👩‍💻 Currently pursuing B.Tech with a passion for Android development.
+- 🌍 Based in Delhi,India.
+- 🚀 Enthusiastic about creating cool and innovative mobile apps.
+- ⚡ Fun fact: Android developer by day, culinary wizard by night! 📱🍳 When I'm not coding, you'll catch me stirring up some tasty creations in the kitchen. From apps to recipes, I'm all about crafting delightful experiences! ✨👩‍💻👨‍🍳
+
+## Tech Stack 💻
+
+- **Languages:** Java, Kotlin, C, C++
+- **Tools:** Android Studio, Figma
+- **Platforms:** Android, Firebase, Google Cloud
+
+## Connect with Me 🚀
+
+- [Twitter](https://twitter.com/yourtwitterhandle)
+- [LinkedIn](https://www.linkedin.com/in/swativerma0101/)
+- [Instagram](https://www.instagram.com/yourinstagramhandle/)
+- **Email:** (mailto:vswati0101@gmail.com)
