@@ -22,7 +22,6 @@
 
 ## Connect with Me 🚀
 
-- [Twitter](https://twitter.com/yourtwitterhandle)
+- [Twitter](https://twitter.com/VermaSwati16031/)
 - [LinkedIn](https://www.linkedin.com/in/swativerma0101/)
-- [Instagram](https://www.instagram.com/yourinstagramhandle/)
-- **Email:** (mailto:vswati0101@gmail.com)
+- **Email:** (vswati0101@gmail.com)
